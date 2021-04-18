@@ -1,5 +1,3 @@
--- Add your ideas! --
-
 # Market and competition
 ### Delivery 
 mjam.at \
@@ -63,4 +61,3 @@ Pizza donations to charities. Partnerships for logos.
     2.1. Review Microsoft products for integration
 
 ### Further improvements
-3. 
